@@ -7,18 +7,18 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 Picture.create(
   title:  'The old church on the coast of White sea',
-  artist: 'Sergey Ershov',
+  date: '2016-Jan-02',
   url:    'http://bitmakerlabs.s3.amazonaws.com/photogur/house.jpg'
 )
 
 Picture.create(
   title:  'Sea Power',
-  artist: 'Stephen Scullion',
+  date: '2016-Jan-03',
   url:    'http://bitmakerlabs.s3.amazonaws.com/photogur/wave.jpg'
 )
 
 Picture.create(
   title:  'Into the Poppies',
-  artist: 'John Wilhelm',
+  date: '2016-Jan-04',
   url:    'http://bitmakerlabs.s3.amazonaws.com/photogur/girl.jpg'
 )
